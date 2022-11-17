@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="500"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="300"/>
 </div>
 
 # IBM-Project-34421-1660235665
