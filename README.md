@@ -3,11 +3,6 @@
 </div>
 
 <html>
-  <head>
-    <style>
-      h1 {text-align: center;}
-    </style>
-  </head>
   <body>
     <h1>IBM-Project-34421-1660235665</h1>
   </body>
