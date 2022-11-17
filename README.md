@@ -12,5 +12,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" title="IBM Watson IoT " alt="IBM Watson IoT" width="90" height="80"/>
         <img src="https://appinventor.mit.edu/images/logo.png" title="MIT App Inventory" alt="MIT App Inventory" width="200" height="80"/>
      </div>
+     <h3>Problem Statement</h3>
+     <ul>
+      <li>This project deals with the problem of waste management in smart cities, where the garbage collection system is not optimized. This project enables the organizations to meet their needs of smart garbage management systems.</li>
+      <li>This system allows the user to know the fill level of each garbage bin in a locality or city at all times, to give a cost-effective and time-saving route to the truck drivers.</li>
+      </ul>  
   </body>
 </html>
