@@ -8,9 +8,9 @@
     <h2 align="center">Smart Waste Management System For Metropolitan Cities</h2>
     <h2>Languages and Tools<h2>
      <div>
-        <img src="https://nodered.org/about/resources/media/node-red-icon-2.png" title="Node Red" alt="Node Red"/>
-        <img src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" title="IBM Watson IoT " alt="IBM Watson IoT"/>
-        <img src="https://appinventor.mit.edu/images/logo.png" title="MIT App Inventory" alt="MIT App Inventory" />
+        <img src="https://nodered.org/about/resources/media/node-red-icon-2.png" title="Node Red" alt="Node Red" width="60" height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" title="IBM Watson IoT " alt="IBM Watson IoT" width="60" height="60"/>
+        <img src="https://appinventor.mit.edu/images/logo.png" title="MIT App Inventory" alt="MIT App Inventory" width="100" height="60"/>
      </div>
   </body>
 </html>
