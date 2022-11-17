@@ -10,7 +10,7 @@
      <div>
         <img src="https://nodered.org/about/resources/media/node-red-icon-2.png" title="Node Red" alt="Node Red" width="80" height="80"/>
         <img src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" title="IBM Watson IoT " alt="IBM Watson IoT" width="80" height="80"/>
-        <img src="https://appinventor.mit.edu/images/logo.png" title="MIT App Inventory" alt="MIT App Inventory" width="120" height="80"/>
+        <img src="https://appinventor.mit.edu/images/logo.png" title="MIT App Inventory" alt="MIT App Inventory" width="150" height="80"/>
      </div>
   </body>
 </html>
