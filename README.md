@@ -2,5 +2,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="300"/>
 </div>
 
-# IBM-Project-34421-1660235665
+<html>
+  <head>
+    <style>
+      h1 {text-align: center;}
+    </style>
+  </head>
+  <body>
+    <h1>IBM-Project-34421-1660235665</h1>
+  </body>
+</html>
 Smart Waste Management System For Metropolitan Cities
