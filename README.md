@@ -4,7 +4,7 @@
 
 <html>
   <body>
-    <h1>IBM-Project-34421-1660235665</h1>
+    <h1 align="center">IBM-Project-34421-1660235665</h1>
   </body>
 </html>
 Smart Waste Management System For Metropolitan Cities
