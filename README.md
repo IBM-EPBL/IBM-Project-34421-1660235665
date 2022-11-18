@@ -17,7 +17,7 @@
         <li>This project deals with the problem of waste management in smart cities, where the garbage collection system is not optimized. This project enables the organizations to meet their needs of smart garbage management systems.</li>
         <li>This system allows the user to know the fill level of each garbage bin in a locality or city at all times, to give a cost-effective and time-saving route to the truck drivers.</li>
       </ul>
-      <h3>For any queries contact <a href = "mailto: smartwastemntsys@gmail.com">PNT2022TMID15246</a></h3>
+      <h3 align="center" >For any queries contact <a href = "mailto: smartwastemntsys@gmail.com">PNT2022TMID15246</a></h3>
       
 
   </body>
