@@ -18,7 +18,7 @@
         <li>This system allows the user to know the fill level of each garbage bin in a locality or city at all times, to give a cost-effective and time-saving route to the truck drivers.</li>
       </ul>
       <h3>For any queries contact</h3>
-      <a htef = "mailto: smartwastemntsys@gmail.com">PNT2022TMID15246</a>
+      <a href = "mailto: smartwastemntsys@gmail.com">PNT2022TMID15246</a>
 
   </body>
 </html>
