@@ -13,8 +13,7 @@
         <img src="https://appinventor.mit.edu/images/logo.png" title="MIT App Inventory" alt="MIT App Inventory" width="200" height="80"/>
      </div>
       
-      <h3>For Any Queries Contact</h3>
-      <a href = "mailto: smartwastemntsys@gmail.com">PNT2022TMID15246</a>
+      
       
      <h3>Problem Statement</h3>
      <ul>
