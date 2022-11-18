@@ -18,7 +18,12 @@
         <li>This system allows the user to know the fill level of each garbage bin in a locality or city at all times, to give a cost-effective and time-saving route to the truck drivers.</li>
       </ul>
       <h3>Reach us <a href = "mailto: smartwastemntsys@gmail.com">PNT2022TMID15246</a></h3>
-      
-
+      <h2> Team Members</h2>
+      <dl>
+        <dd>JONNALAGADDA SHANMUKHA SRINIVAS</dd>
+        <dd>JETTI NITHIN REDDY</dd>
+        <dd>JAMMALA PAVAN KUMAR</dd>
+        <dd>KILARI VENKATA SAILESH KUMAR</dd>
+      </dl>
   </body>
 </html>
