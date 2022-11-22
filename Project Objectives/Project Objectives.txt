@@ -1,4 +1,5 @@
-The Objective of Smart Waste Management System For Metropolitan Cities is a idea where we can control lots of problems which disturbs the society to manage waste. The waste management has to be done instantly else it leads to irregular management which will have adverse effect on nature. The Smart waste management is compatible mainly with concept of smart cities.
+The Objective of Smart Waste Management System For Metropolitan Cities is a idea where we can control lots of problems which disturbs the society to manage waste.
+The waste management has to be done instantly else it leads to irregular management which will have adverse effect on nature. The Smart waste management is compatible mainly with concept of smart cities.
 
 The main objectives of our proposed system are as follows:
 	1. Monitoring the waste management.
